@@ -44,7 +44,49 @@
       <Number>2535388</Number>
     </ListHomePhone>
     <Picture href="/People/AGolovatov.jpg"/>
-
   </Human>
+
+
+    <Human>
+        <FirstName>Паша</FirstName>
+        <LastName>Улитков</LastName>
+        <Patronymic>Александрович</Patronymic>
+        <City>Москва</City>
+        <ListWorkplace>
+            <Workplace>Газпром
+                <Position>Начальник</Position>
+            </Workplace>
+        </ListWorkplace>
+        <ListMobilePhone>
+            <Number>89282828288</Number>
+        </ListMobilePhone>
+        <ListHomePhone>
+            <Number>2535322</Number>
+        </ListHomePhone>
+        <Picture href="/People/PYlitov.jpg"/>
+    </Human>
+
+    <Human>
+        <FirstName>Влад</FirstName>
+        <LastName>Зверев</LastName>
+        <Patronymic>Владимирович</Patronymic>
+        <City>Краснодар</City>
+        <ListWorkplace>
+            <Workplace>ООО Здоровье
+                <Position>Кассир</Position>
+            </Workplace>
+            <Workplace>ООО Магнит
+                <Position>Менеджер</Position>
+            </Workplace>
+        </ListWorkplace>
+        <ListMobilePhone>
+            <Number>89282412418</Number>
+        </ListMobilePhone>
+        <ListHomePhone>
+            <Number></Number>
+        </ListHomePhone>
+        <Picture href=""/>
+    </Human>
+
 
 </AddressBook>
